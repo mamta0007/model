@@ -3,7 +3,7 @@ from openai import OpenAI
 import json
 
 client=OpenAI(
-     api_key="AIzaSyBkLScjm1Pbk7pJNGqT2H8sy9kHckTX1Tc",
+     api_key="GEMINI_API_KEY",
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
