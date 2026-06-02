@@ -3,7 +3,7 @@ import requests
 
 while True:
     user_city=input("enter your city: ").strip().lower()
-    api_key="c1c81417b9bbb83ef44a395743eb4620"
+    api_key="WEATHER_API_KEY"
     if user_city== "":
         break
     
